@@ -23,9 +23,9 @@
 <br/>
 
 ## Projetos que desenvolvi 👨🏼‍💻
-- [Filtro de Planilhas](https://github.com/GabrielResendel/Filtro-de-Planilha)<br/>
-- [API E-Comerce](https://github.com/GabrielResendel/API-Ecomerce)<br/>
-- [Site E-Comerce](https://github.com/GabrielResendel/site-ecomerce-react)<br/>
+- [Filtro de Planilhas](https://github.com/GabrielResendel/Filtro-de-Planilha)
+- [API E-Comerce](https://github.com/GabrielResendel/API-Ecomerce)
+- [Site E-Comerce](https://github.com/GabrielResendel/site-ecomerce-react)
 <br/>
 
 
