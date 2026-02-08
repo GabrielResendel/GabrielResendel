@@ -23,9 +23,10 @@
 <br/>
 
 ## Projetos que desenvolvi 👨🏼‍💻
-- [Filtro de Planilhas](https://github.com/GabrielResendel/Filtro-de-Planilha)
+- [App Assistente Financeiro](https://github.com/GabrielResendel/Sistema-Assistente-Financeiro)
 - [API E-Comerce](https://github.com/GabrielResendel/API-Ecomerce)
 - [Site E-Comerce](https://github.com/GabrielResendel/site-ecomerce-react)
+- [App Gestã de Pessoas](https://github.com/GabrielResendel/GestaoDePessoas)
 <br/>
 
 
