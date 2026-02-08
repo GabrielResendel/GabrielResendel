@@ -26,7 +26,7 @@
 - [App Assistente Financeiro](https://github.com/GabrielResendel/Sistema-Assistente-Financeiro)
 - [API E-Comerce](https://github.com/GabrielResendel/API-Ecomerce)
 - [Site E-Comerce](https://github.com/GabrielResendel/site-ecomerce-react)
-- [App Gestã de Pessoas](https://github.com/GabrielResendel/GestaoDePessoas)
+- [App Gestão de Pessoas](https://github.com/GabrielResendel/GestaoDePessoas)
 <br/>
 
 
